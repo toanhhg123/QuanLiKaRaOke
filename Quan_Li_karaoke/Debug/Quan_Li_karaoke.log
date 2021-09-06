@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\Quan_Li_karaoke\Quan_Li_karaoke\ThucUong.h(45,50): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+C:\Users\Admin\Desktop\Quan_Li_karaoke\Quan_Li_karaoke\ThucAn.h(46,50): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+C:\Users\Admin\Desktop\Quan_Li_karaoke\Quan_Li_karaoke\main_funsion.h(357,15): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\Quan_Li_karaoke\Quan_Li_karaoke\main_funsion.h(536,80): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+C:\Users\Admin\Desktop\Quan_Li_karaoke\Quan_Li_karaoke\main_funsion.h(532,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\Quan_Li_karaoke\Quan_Li_karaoke\ThucUong.h(36): warning C4715: 'xuat_thuc_uong': not all control paths return a value
+C:\Users\Admin\Desktop\Quan_Li_karaoke\Quan_Li_karaoke\main_funsion.h(575): warning C4715: 'tinhtien_phong': not all control paths return a value
+  Quan_Li_karaoke.vcxproj -> C:\Users\Admin\Desktop\Quan_Li_karaoke\Debug\Quan_Li_karaoke.exe

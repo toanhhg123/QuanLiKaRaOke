@@ -1,0 +1,8 @@
+
+	Thoi gian: 19h3 --> 19h4
+	Danh sach Thuc an : 
+Trai_cay   	1	50000
+	Danh sach Do uong : 
+ Nuoc suoi	6	15000
+	Tong Tien :  140003d
+***** Cam on qui khach, hen gap lai *****

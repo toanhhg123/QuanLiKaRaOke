@@ -1,0 +1,20 @@
+TU001, Nuoc suoi, 15000, 6
+TU002, Bia cacloai,30000, 30
+TU003, Nuocngot, 25000, 6
+TU004, Ruou Chivas, 2700000, 1
+TU005, Ballantine, 500000, 1
+TU006, Johnnie Walker, 450000, 1
+TU007, RuouWhysky, 850000, 1
+TU008, White & Mackay, 400000, 1
+TU009, Ruou Dewar's, 900000, 1
+TU010, Ruou Campari, 400000, 1
+TU011, Ruou Vodka, 100000, 1
+TU012, Ruou Cognac, 800000, 1
+TU013, Ruou Tequila, 400000, 1
+TU014, Ruou Vang, 850000, 1
+TU015, Whiskey Sour, 70000, 1
+TU016, Margarita, 78000, 1
+TU017, Negroni, 100000, 1
+TU018, Cinderella, 50000, 1
+TU019, Bellini, 60000, 1
+TU020, Zoo Zoo, 80000, 1

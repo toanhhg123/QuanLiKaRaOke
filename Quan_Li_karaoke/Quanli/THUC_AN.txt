@@ -1,0 +1,32 @@
+TA001,Cha_lua  ,20000,5
+TA002,Cha_gio  ,25000,5
+TA003,Goi_cuon,30000,5
+TA004,Goi_tom  ,30000,1
+TA005,Kho_bo   ,20000,1
+TA006,Kho_heo  ,20000,1
+TA007,Kho_nai   ,25000,1
+TA008,Sun_ga     ,30000,1
+TA009,Com_chien,35000,1
+TA010,Muc_chien,30000,1
+TA011,Muc_xao  ,40000,1
+TA012,Tom_chien,35000,5
+TA013,My_xao    ,30000,1
+TA014,My_bo     ,40000,1
+TA015,Khoai_tay,15000,1
+TA016,Trai_cay   ,50000,1
+TA017,bim_bim   ,5000,1
+TA018,Dau_Phong,5000,1
+TA019,Hat_dua     ,7.000,1
+TA020,Hat_duong ,7000,1
+TA021,Rau_muc   ,7000,1
+TA022,Ga_chien   ,45000,2
+TA023,Nem          ,5000,1
+TA024,Ca_loc      ,40000,1
+TA025,Muc_nuong,20000,2
+TA026,Ga_nuong  ,75000,1
+TA027,CB_kho    ,70000,1
+TA028,CB_Dau   ,25000,1
+TA029,CB_Lau   ,200000,1
+TA030,CB_Fruit  ,150000,1
+TA031,CB_Banh ,80000,1
+TA032,Khan        ,7000,1
